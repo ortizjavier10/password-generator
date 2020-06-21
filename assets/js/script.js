@@ -18,7 +18,7 @@ var confirmLowerCase;
 
 // password length pompt
 function generatePassword() {
-  var confirmLength = (prompt("How many characters would you like your password to contain?"));
+  var confirmLength = (prompt("How many characters would you like your password to contain? Please choose between 8 and 128 characters"));
 
   // alert answer outside of 8 -128 characters
   while(confirmLength <= 8 || confirmLength >= 128) {
