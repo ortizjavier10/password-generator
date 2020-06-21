@@ -10,6 +10,7 @@ Random password generator. When user click generate password they are pompted wi
 
 ### Website:
 https://ortizjavier10.github.io/password-generator/
+<img src="./assets/images/screenshot.jpg" >
 
 ### Code:
 * HTML5
