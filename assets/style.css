@@ -119,6 +119,8 @@ button[disabled] {
   overflow: hidden;
 }
 
+/* media queries*/
+
 @media (max-width: 690px) {
   .btn {
     font-size: 1rem;
