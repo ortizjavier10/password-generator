@@ -119,13 +119,16 @@ button[disabled] {
   overflow: hidden;
 }
 
-/* media queries*/
-
+/* media query*/
+/* meria query max-width 690*/
 @media (max-width: 690px) {
   .btn {
     font-size: 1rem;
     margin: 16px 0px 0px 0px;
     padding: 10px 15px;
+  }
+  .card-header {
+    text-align: center;
   }
 
   #password {
@@ -138,3 +141,5 @@ button[disabled] {
     font-size: 0.8rem;
   }
 }
+
+
