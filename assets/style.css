@@ -136,10 +136,9 @@ button[disabled] {
   }
 }
 
+/* meria query max-width 500*/
 @media (max-width: 500px) {
   .btn {
     font-size: 0.8rem;
   }
 }
-
-
