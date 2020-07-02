@@ -26,9 +26,6 @@ function generatePassword() {
     var confirmLength = (prompt("How many characters would you like your password to contain? Please choose between 8 and 128 characters"));
     } 
 
-    // alert character password length 
-    alert(`Your password will have ${confirmLength} characters`);
-
     // password parameters 
     var confirmSpecialCharacter = confirm("Click OK to confirm if you would like to include special characters");
     var confirmNumericCharacter = confirm("Click OK to confirm if you would like to include numeric characters");    
